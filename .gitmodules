@@ -1,0 +1,6 @@
+[submodule "extras/FiraCode"]
+	path = extras/FiraCode
+	url = https://github.com/tonsky/FiraCode
+[submodule "extras/Fira"]
+	path = extras/Fira
+	url = https://github.com/mozilla/Fira.git
